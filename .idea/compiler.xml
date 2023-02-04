@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="emailVerificationPractice" target="14" />
+      <module name="emailVerificationPractice" target="13" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
